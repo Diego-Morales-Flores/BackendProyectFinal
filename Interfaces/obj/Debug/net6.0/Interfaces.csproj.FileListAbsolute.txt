@@ -1,0 +1,12 @@
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\bin\Debug\net6.0\Interfaces.dll
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.dll
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+E:\Backup\Descargas\Trabajo\BootCamp\Backend\BakeryFreshBreadAPI\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

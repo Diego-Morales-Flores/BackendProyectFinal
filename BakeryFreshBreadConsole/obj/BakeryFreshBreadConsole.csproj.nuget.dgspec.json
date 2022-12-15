@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\BakeryFreshBreadConsole\\BakeryFreshBreadConsole.csproj": {}
+  },
+  "projects": {
+    "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\BakeryFreshBreadConsole\\BakeryFreshBreadConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\BakeryFreshBreadConsole\\BakeryFreshBreadConsole.csproj",
+        "projectName": "BakeryFreshBreadConsole",
+        "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\BakeryFreshBreadConsole\\BakeryFreshBreadConsole.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\BakeryFreshBreadConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\DataModel\\DataModel.csproj": {
+                "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\DataModel\\DataModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Build.Tasks.Core": {
+              "target": "Package",
+              "version": "[17.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\DataModel\\DataModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\DataModel\\DataModel.csproj",
+        "projectName": "DataModel",
+        "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\DataModel\\DataModel.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\DataModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj"
+              },
+              "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Models\\Models.csproj": {
+                "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "E:\\Backup\\Descargas\\Trabajo\\BootCamp\\Backend\\BakeryFreshBreadAPI\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
